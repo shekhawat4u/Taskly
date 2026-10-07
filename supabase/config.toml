@@ -1,0 +1,7 @@
+project_id = "taskly"
+
+[functions.send-push]
+verify_jwt = false
+
+[functions.due-reminders]
+verify_jwt = false
